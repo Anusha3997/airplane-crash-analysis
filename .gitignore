@@ -1,0 +1,14 @@
+# secrets
+project.env
+.env
+
+# python
+venv/
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# mac
+.DS_Store
