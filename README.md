@@ -16,26 +16,15 @@ This project demonstrates practical skills in data cleaning, database management
 - Jupyter Notebook
 
 ## 🗄️ Data Storage Approach
-- SQLite
-    Used for:
-        Structured tables
-        SQL queries
-        Aggregations and filtering
-- MongoDB
-    Used for:
-        JSON-based crash records
-        Flexible schema
-        Document-style storage for semi-structured aviation data
+- SQLite used for:
+    - Structured tables
+    - SQL queries
+    - Aggregations and filtering
+- MongoDB used for:
+    - JSON-based crash records
+    - Flexible schema
+    - Document-style storage for semi-structured aviation data
 This project demonstrates working with both SQL and NoSQL databases, similar to real-world data engineering environments.
-
-## 📂 Repository Structure
-Airplane-Crash-Analysis/
-│
-├── Airplane Crash Analysis.ipynb   # Main analysis notebook
-├── airplane_crashes.sqlite         # SQLite database
-├── airplane_crashes.json           # Raw dataset
-├── airplane_crashes_output.json    # Processed/exported data
-└── README.md
 
 ## 🔍 Key Analysis Performed
 - Data cleaning & preprocessing
@@ -64,12 +53,13 @@ Open:
 Airplane Crash Analysis.ipynb
 ```
 ## 🎯 Skills Demonstrated
-✔ Data cleaning & wrangling
-✔ Exploratory data analysis
-✔ SQL querying
-✔ NoSQL (MongoDB) usage
-✔ Data visualization
-✔ Python scripting
+* Data cleaning & wrangling
+* Exploratory data analysis
+* SQL querying
+* NoSQL (MongoDB) usage
+* Data visualization
+* Python scripting
+* Data Wrangling
 
 ## 👩‍💻 Author
 Anusha Nagula
